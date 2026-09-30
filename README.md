@@ -2,7 +2,7 @@
 
 ### Aspiring SDET | Manual Testing
 
-I’m building a strong foundation in manual testing, including the STLC, defect life cycle, and Agile methodology, while developing my Core Java and SQL skills. I plan to expand into Test Automation with Selenium(Java), as well as API testing.
+I’m building a strong foundation in manual testing, including the STLC, defect life cycle, and Agile methodology, while developing my Core Java and SQL skills. I plan to expand into Automation Testing with Selenium(Java), as well as API testing.
 
 ## Skills
 
